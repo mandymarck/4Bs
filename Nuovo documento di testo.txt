@@ -1,0 +1,38 @@
+After Effects - Avvertenza:  alcuni livelli presentano dipendenze mancanti. Premete Ctrl + C per copiare questo elenco.
+
+17 dipendenze mancanti:
+
+1)   Livello testo: Famiglia font: “Alittlesunshine”, Stile font: “Regular”
+
+2)   Livello testo: Famiglia font: “Amatic”, Stile font: “Bold”
+
+3)   Livello testo: Famiglia font: “BebasNeueBold”, Stile font: “Regular”
+
+4)   Livello testo: Famiglia font: “BebasNeueBook”, Stile font: “Regular”
+
+5)   Livello testo: Famiglia font: “BebasNeue”, Stile font: “Regular”
+
+6)   Livello testo: Famiglia font: “Bebas”, Stile font: “Regular”
+
+7)   Livello testo: Famiglia font: “BigNoodleTitling”, Stile font: “Regular”
+
+8)   Livello testo: Famiglia font: “ChunkFive”, Stile font: “Roman”
+
+9)   Livello testo: Famiglia font: “Code”, Stile font: “Bold”
+
+10)   Livello testo: Famiglia font: “Journal”, Stile font: “Regular”
+
+11)   Livello testo: Famiglia font: “OpenSans”, Stile font: “Bold”
+
+12)   Livello testo: Famiglia font: “OpenSans”, Stile font: “SemiboldItalic”
+
+13)   Livello testo: Famiglia font: “TYPOGRAPHPRO”, Stile font: “ExtraBold”
+
+14)   Livello testo: Famiglia font: “TYPOGRAPHPRO”, Stile font: “LightItalic”
+
+15)   Livello testo: Famiglia font: “TYPOGRAPHPRO”, Stile font: “Light”
+
+16)   Livello testo: Famiglia font: “TYPOGRAPHPRO”, Stile font: “SemiBold”
+
+17)   Livello testo: Famiglia font: “VarySharky”, Stile font: “Regular”
+
